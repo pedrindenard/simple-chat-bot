@@ -1,4 +1,4 @@
-# Building a Simple Chatbot from Scratch in Python (using NLTK)
+# Simple Chatbot in Python (using NLTK)
 
 ### Installation of NLTK
 ```
