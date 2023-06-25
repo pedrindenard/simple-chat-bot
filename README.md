@@ -21,7 +21,7 @@ nltk.download('wordnet')
 ### How to add data
 Add you additional data, inside package "data/", add files .txt to tokenizer and get results when user asks for more different data
 
-````
+```
 data/data1.txt
 data/data2.txt
 data/data3.txt
